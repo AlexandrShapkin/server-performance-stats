@@ -78,13 +78,13 @@ Free: 58 GB
 Usage: 42%
 
 Top 5 Processes by CPU Usage:
-PID    COMMAND    CPU%
+PID    COMMAND    %CPU
 1234   nginx      15.2
 5678   node       10.8
 ...
 
 Top 5 Processes by Memory Usage:
-PID    COMMAND    MEM%
+PID    COMMAND    %MEM
 1234   java       8.7
 5678   postgres   6.3
 ...
